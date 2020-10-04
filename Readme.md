@@ -9,5 +9,5 @@
 * Высокая скорость поиска
 * Низкая цена
 
-changed for test ssh keys
+#changed for test ssh keys
 
